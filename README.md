@@ -32,7 +32,7 @@ A simple Python script to scrape search results from OLX (example: "Car Cover") 
 
 ## 📦 Script
  ```bash
-   import requests
+import requests
 from bs4 import BeautifulSoup
 import csv
 
